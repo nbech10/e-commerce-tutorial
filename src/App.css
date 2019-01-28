@@ -6,7 +6,11 @@
   --mainYellow:#ffa400;
 }
 
-body{
+body {
   background: var(--mainWhite) !important;
   color: var(--mainDark) !important;
+}
+
+.text-title {
+  
 }
